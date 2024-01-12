@@ -15,7 +15,7 @@
               <li><a href="#about">Acerca de</a></li>
               <li><a href="#services">Servicios</a></li>
               <li><a href="docs/AVISO DE PRIVACIDAD.pdf" target="_blank" rel="noopener noreferrer">Aviso de privacidad</a></li>
-              <li><a href="http://" target="_blank" rel="noopener noreferrer">Términos y condiciones</a></li>
+              <li><a href="docs/TÉRMINOS Y CONDICIONES.pdf" target="_blank" rel="noopener noreferrer">Términos y condiciones</a></li>
             </ul>
           </div>
 
