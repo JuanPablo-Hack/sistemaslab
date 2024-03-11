@@ -21,7 +21,6 @@
 
           <div class="col-lg-3 col-md-6 footer-contact">
             <h4>Contacta con nosotros</h4>
-              <strong>Telefóno:</strong> 3121160904<br>
               <strong>Email:</strong> info@sistemaslab.tech<br>
             </p>
 

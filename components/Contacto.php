@@ -16,10 +16,7 @@
                 <i class="ion-ios-email-outline"></i>
                 <p><a href="mailto:info@sistemaslab.tech">info@sistemaslab.tech</a></p>
               </div>
-              <div class="col-md-6 info">
-                <i class="ion-ios-telephone-outline"></i>
-                <p><a href="tel:+3121160904">3121160904</a></p>
-              </div>
+
             </div>
 
             <div class="form">
